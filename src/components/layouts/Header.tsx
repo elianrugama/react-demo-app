@@ -8,6 +8,7 @@ type Props = {}
 export default function Header({}: Props) {
   return (
     <div className='flex justify-between px-4 py-5 text-white border bg-slate-950'>
+      xd
         <Logo />  
         
         <ul className='flex gap-2'>
